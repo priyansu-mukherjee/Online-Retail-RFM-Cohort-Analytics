@@ -15,13 +15,13 @@
 ## 📊 Dashboard Previews
 
 ### 1. Executive Overview
-![Executive Overview](executive_overview.png)
+![Executive Overview](executive%20overview%20.png)
 
 ### 2. Cohort Retention Matrix
-![Cohort Retention Matrix](cohort_retention.png)
+![Cohort Retention Matrix](cohort%20retention.png)
 
 ### 3. RFM Customer Segmentation
-![RFM Customer Segmentation](rfm_segmentation.png)
+![RFM Customer Segmentation](RFM%20segmentation.png)
 
 ---
 
