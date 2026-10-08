@@ -21,7 +21,7 @@
 ![Cohort Retention Matrix](rfm_cohort/cohort_retention.png)
 
 ### 3. RFM Customer Segmentation
-![RFM Customer Segmentation](rfm_cohort/RFM_segmentation.png)
+![RFM Customer Segmentation](rfm_cohort/rfm_segmentation.png)
 
 ---
 
